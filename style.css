@@ -67,12 +67,10 @@ nav a {
 }
 
 nav a:hover {
-    color: #3498db;
+    color: blueviolet;
     text-decoration: underline;
-    padding: 200px;
 }
 
-/* Seções (Sobre, Contato, Login) */
 section {
     background: white;
     margin: 20px auto;
@@ -97,7 +95,7 @@ section img {
     margin-bottom: 15px;
 }
 
-/* Links no corpo do texto */
+
 section a {
     color: #2980b9;
     font-weight: bold;
